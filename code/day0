@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<h1>Pankaj Sharma</h1>
+<h2>Programmer</h2>
+<h3>sharma.pankajkumar67@gmail.com</h3>
+<h3>9634017227</h3><hr>
+
+<h4>I have done 10th with 85%.</h4>
+<h4>I have done 12th with 82%.</h4>
+<h4>I have done BCA with 66%.</h4><hr>
+<h2>Technical Skills</h2>
+<ul>
+<h4>
+<li>HTML</li>
+<li>CSS</li>
+<li>C</li>
+<li>C++</li>
+<li>JAVA</li></h4>
+</ul><hr>
+<h2>Projects</h2>
+<ul><h4>
+<li>Airline Reservation System</li>
+<li>Adventure Website</li></h4>
+</ul>
+
+
+</body>
+</html>
