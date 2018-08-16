@@ -1,0 +1,24 @@
+<DOCTYPE html>
+<html>
+
+<head>
+<title>lohin page</title>
+</head>
+<body bgcolor="gray">
+<table border ="5" align="center" bgcolor="green">
+<tr>
+<td><font size="5" color="white">User Name</td>
+<td><input type="text"></td>
+</tr>
+<tr>
+
+<td ><font size="5" color="white">Password</td>
+
+<td><input type="password"></td>
+<tr>
+<td></td>
+<td><font size="5" color="white"><button type="submit">log_in</button></td>
+
+</table>
+</body>
+</html>
